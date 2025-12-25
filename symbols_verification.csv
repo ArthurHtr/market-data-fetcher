@@ -1,0 +1,300 @@
+symbol,name,baseAsset,quoteAsset,sector,industry,exchange,priceStep,quantityStep,minQuantity
+AAPL,Apple Inc.,AAPL,USD,Technology,Consumer Electronics,NMS,0.01,1.0,1.0
+MSFT,Microsoft Corporation,MSFT,USD,Technology,Software - Infrastructure,NMS,0.01,1.0,1.0
+AMZN,"Amazon.com, Inc.",AMZN,USD,Consumer Cyclical,Internet Retail,NMS,0.01,1.0,1.0
+GOOGL,Alphabet Inc.,GOOGL,USD,Communication Services,Internet Content & Information,NMS,0.01,1.0,1.0
+META,"Meta Platforms, Inc.",META,USD,Communication Services,Internet Content & Information,NMS,0.01,1.0,1.0
+NVDA,NVIDIA Corporation,NVDA,USD,Technology,Semiconductors,NMS,0.01,1.0,1.0
+TSLA,"Tesla, Inc.",TSLA,USD,Consumer Cyclical,Auto Manufacturers,NMS,0.01,1.0,1.0
+BRK-B,Berkshire Hathaway Inc. New,BRK-B,USD,Financial Services,Insurance - Diversified,NYQ,0.01,1.0,1.0
+JPM,JP Morgan Chase & Co.,JPM,USD,Financial Services,Banks - Diversified,NYQ,0.01,1.0,1.0
+V,Visa Inc.,V,USD,Financial Services,Credit Services,NYQ,0.01,1.0,1.0
+MA,Mastercard Incorporated,MA,USD,Financial Services,Credit Services,NYQ,0.01,1.0,1.0
+UNH,UnitedHealth Group Incorporated,UNH,USD,Healthcare,Healthcare Plans,NYQ,0.01,1.0,1.0
+JNJ,Johnson & Johnson,JNJ,USD,Healthcare,Drug Manufacturers - General,NYQ,0.01,1.0,1.0
+PG,Procter & Gamble Company (The),PG,USD,Consumer Defensive,Household & Personal Products,NYQ,0.01,1.0,1.0
+KO,Coca-Cola Company (The),KO,USD,Consumer Defensive,Beverages - Non-Alcoholic,NYQ,0.01,1.0,1.0
+PEP,"Pepsico, Inc.",PEP,USD,Consumer Defensive,Beverages - Non-Alcoholic,NMS,0.01,1.0,1.0
+XOM,Exxon Mobil Corporation,XOM,USD,Energy,Oil & Gas Integrated,NYQ,0.01,1.0,1.0
+CVX,Chevron Corporation,CVX,USD,Energy,Oil & Gas Integrated,NYQ,0.01,1.0,1.0
+WMT,Walmart Inc.,WMT,USD,Consumer Defensive,Discount Stores,NMS,0.01,1.0,1.0
+HD,"Home Depot, Inc. (The)",HD,USD,Consumer Cyclical,Home Improvement Retail,NYQ,0.01,1.0,1.0
+BAC,Bank of America Corporation,BAC,USD,Financial Services,Banks - Diversified,NYQ,0.01,1.0,1.0
+DIS,Walt Disney Company (The),DIS,USD,Communication Services,Entertainment,NYQ,0.01,1.0,1.0
+NFLX,"Netflix, Inc.",NFLX,USD,Communication Services,Entertainment,NMS,0.01,1.0,1.0
+AMD,"Advanced Micro Devices, Inc.",AMD,USD,Technology,Semiconductors,NMS,0.01,1.0,1.0
+INTC,Intel Corporation,INTC,USD,Technology,Semiconductors,NMS,0.01,1.0,1.0
+ORCL,Oracle Corporation,ORCL,USD,Technology,Software - Infrastructure,NYQ,0.01,1.0,1.0
+ADBE,Adobe Inc.,ADBE,USD,Technology,Software - Application,NMS,0.01,1.0,1.0
+CSCO,"Cisco Systems, Inc.",CSCO,USD,Technology,Communication Equipment,NMS,0.01,1.0,1.0
+CRM,"Salesforce, Inc.",CRM,USD,Technology,Software - Application,NYQ,0.01,1.0,1.0
+TSM,Taiwan Semiconductor Manufactur,TSM,USD,Technology,Semiconductors,NYQ,0.01,1.0,1.0
+AVGO,Broadcom Inc.,AVGO,USD,Technology,Semiconductors,NMS,0.01,1.0,1.0
+QCOM,QUALCOMM Incorporated,QCOM,USD,Technology,Semiconductors,NMS,0.01,1.0,1.0
+TXN,Texas Instruments Incorporated,TXN,USD,Technology,Semiconductors,NMS,0.01,1.0,1.0
+IBM,International Business Machines,IBM,USD,Technology,Information Technology Services,NYQ,0.01,1.0,1.0
+INTU,Intuit Inc.,INTU,USD,Technology,Software - Application,NMS,0.01,1.0,1.0
+NOW,"ServiceNow, Inc.",NOW,USD,Technology,Software - Application,NYQ,0.01,1.0,1.0
+SHOP,Shopify Inc.,SHOP,USD,Technology,Software - Application,NMS,0.01,1.0,1.0
+UBER,"Uber Technologies, Inc.",UBER,USD,Technology,Software - Application,NYQ,0.01,1.0,1.0
+ABNB,"Airbnb, Inc.",ABNB,USD,Consumer Cyclical,Travel Services,NMS,0.01,1.0,1.0
+PYPL,"PayPal Holdings, Inc.",PYPL,USD,Financial Services,Credit Services,NMS,0.01,1.0,1.0
+SNOW,Snowflake Inc.,SNOW,USD,Technology,Software - Application,NYQ,0.01,1.0,1.0
+PLTR,Palantir Technologies Inc.,PLTR,USD,Technology,Software - Infrastructure,NMS,0.01,1.0,1.0
+NET,"Cloudflare, Inc.",NET,USD,Technology,Software - Infrastructure,NYQ,0.01,1.0,1.0
+PANW,"Palo Alto Networks, Inc.",PANW,USD,Technology,Software - Infrastructure,NMS,0.01,1.0,1.0
+CRWD,"CrowdStrike Holdings, Inc.",CRWD,USD,Technology,Software - Infrastructure,NMS,0.01,1.0,1.0
+ZS,"Zscaler, Inc.",ZS,USD,Technology,Software - Infrastructure,NMS,0.01,1.0,1.0
+DDOG,"Datadog, Inc.",DDOG,USD,Technology,Software - Application,NMS,0.01,1.0,1.0
+MDB,"MongoDB, Inc.",MDB,USD,Technology,Software - Infrastructure,NGM,0.01,1.0,1.0
+DOCU,"DocuSign, Inc.",DOCU,USD,Technology,Software - Application,NMS,0.01,1.0,1.0
+LLY,Eli Lilly and Company,LLY,USD,Healthcare,Drug Manufacturers - General,NYQ,0.01,1.0,1.0
+PFE,"Pfizer, Inc.",PFE,USD,Healthcare,Drug Manufacturers - General,NYQ,0.01,1.0,1.0
+MRK,"Merck & Company, Inc.",MRK,USD,Healthcare,Drug Manufacturers - General,NYQ,0.01,1.0,1.0
+ABBV,AbbVie Inc.,ABBV,USD,Healthcare,Drug Manufacturers - General,NYQ,0.01,1.0,1.0
+TMO,Thermo Fisher Scientific Inc,TMO,USD,Healthcare,Diagnostics & Research,NYQ,0.01,1.0,1.0
+DHR,Danaher Corporation,DHR,USD,Healthcare,Diagnostics & Research,NYQ,0.01,1.0,1.0
+ABT,Abbott Laboratories,ABT,USD,Healthcare,Medical Devices,NYQ,0.01,1.0,1.0
+MDT,Medtronic plc.,MDT,USD,Healthcare,Medical Devices,NYQ,0.01,1.0,1.0
+BMY,Bristol-Myers Squibb Company,BMY,USD,Healthcare,Drug Manufacturers - General,NYQ,0.01,1.0,1.0
+AMGN,Amgen Inc.,AMGN,USD,Healthcare,Drug Manufacturers - General,NMS,0.01,1.0,1.0
+COST,Costco Wholesale Corporation,COST,USD,Consumer Defensive,Discount Stores,NMS,0.01,1.0,1.0
+NKE,"Nike, Inc.",NKE,USD,Consumer Cyclical,Footwear & Accessories,NYQ,0.01,1.0,1.0
+MCD,McDonald's Corporation,MCD,USD,Consumer Cyclical,Restaurants,NYQ,0.01,1.0,1.0
+SBUX,Starbucks Corporation,SBUX,USD,Consumer Cyclical,Restaurants,NMS,0.01,1.0,1.0
+LOW,"Lowe's Companies, Inc.",LOW,USD,Consumer Cyclical,Home Improvement Retail,NYQ,0.01,1.0,1.0
+TGT,Target Corporation,TGT,USD,Consumer Defensive,Discount Stores,NYQ,0.01,1.0,1.0
+BKNG,Booking Holdings Inc. Common St,BKNG,USD,Consumer Cyclical,Travel Services,NMS,0.01,1.0,1.0
+GM,General Motors Company,GM,USD,Consumer Cyclical,Auto Manufacturers,NYQ,0.01,1.0,1.0
+F,Ford Motor Company,F,USD,Consumer Cyclical,Auto Manufacturers,NYQ,0.01,1.0,1.0
+CAT,"Caterpillar, Inc.",CAT,USD,Industrials,Farm & Heavy Construction Machinery,NYQ,0.01,1.0,1.0
+BA,Boeing Company (The),BA,USD,Industrials,Aerospace & Defense,NYQ,0.01,1.0,1.0
+GE,GE Aerospace,GE,USD,Industrials,Aerospace & Defense,NYQ,0.01,1.0,1.0
+RTX,RTX Corporation,RTX,USD,Industrials,Aerospace & Defense,NYQ,0.01,1.0,1.0
+LMT,Lockheed Martin Corporation,LMT,USD,Industrials,Aerospace & Defense,NYQ,0.01,1.0,1.0
+HON,Honeywell International Inc.,HON,USD,Industrials,Conglomerates,NMS,0.01,1.0,1.0
+DE,Deere & Company,DE,USD,Industrials,Farm & Heavy Construction Machinery,NYQ,0.01,1.0,1.0
+UPS,"United Parcel Service, Inc.",UPS,USD,Industrials,Integrated Freight & Logistics,NYQ,0.01,1.0,1.0
+FDX,FedEx Corporation,FDX,USD,Industrials,Integrated Freight & Logistics,NYQ,0.01,1.0,1.0
+UNP,Union Pacific Corporation,UNP,USD,Industrials,Railroads,NYQ,0.01,1.0,1.0
+NSC,Norfolk Southern Corporation,NSC,USD,Industrials,Railroads,NYQ,0.01,1.0,1.0
+SPGI,S&P Global Inc.,SPGI,USD,Financial Services,Financial Data & Stock Exchanges,NYQ,0.01,1.0,1.0
+MS,Morgan Stanley,MS,USD,Financial Services,Capital Markets,NYQ,0.01,1.0,1.0
+GS,"Goldman Sachs Group, Inc. (The)",GS,USD,Financial Services,Capital Markets,NYQ,0.01,1.0,1.0
+C,"Citigroup, Inc.",C,USD,Financial Services,Banks - Diversified,NYQ,0.01,1.0,1.0
+BLK,"BlackRock, Inc.",BLK,USD,Financial Services,Asset Management,NYQ,0.01,1.0,1.0
+SCHW,Charles Schwab Corporation (The,SCHW,USD,Financial Services,Capital Markets,NYQ,0.01,1.0,1.0
+AXP,American Express Company,AXP,USD,Financial Services,Credit Services,NYQ,0.01,1.0,1.0
+CB,Chubb Limited,CB,USD,Financial Services,Insurance - Property & Casualty,NYQ,0.01,1.0,1.0
+MMC,"Marsh & McLennan Companies, Inc",MMC,USD,Financial Services,Insurance Brokers,NYQ,0.01,1.0,1.0
+AIG,"American International Group, I",AIG,USD,Financial Services,Insurance - Diversified,NYQ,0.01,1.0,1.0
+LIN,Linde plc,LIN,USD,Basic Materials,Specialty Chemicals,NMS,0.01,1.0,1.0
+APD,"Air Products and Chemicals, Inc",APD,USD,Basic Materials,Specialty Chemicals,NYQ,0.01,1.0,1.0
+ECL,Ecolab Inc.,ECL,USD,Basic Materials,Specialty Chemicals,NYQ,0.01,1.0,1.0
+FCX,"Freeport-McMoRan, Inc.",FCX,USD,Basic Materials,Copper,NYQ,0.01,1.0,1.0
+NEM,Newmont Corporation,NEM,USD,Basic Materials,Gold,NYQ,0.01,1.0,1.0
+RIO,Rio Tinto Plc,RIO,USD,Basic Materials,Other Industrial Metals & Mining,NYQ,0.01,1.0,1.0
+BHP,BHP Group Limited,BHP,USD,Basic Materials,Other Industrial Metals & Mining,NYQ,0.01,1.0,1.0
+BP,BP p.l.c.,BP,USD,Energy,Oil & Gas Integrated,NYQ,0.01,1.0,1.0
+SHEL,Shell PLC,SHEL,USD,Energy,Oil & Gas Integrated,NYQ,0.01,1.0,1.0
+COP,ConocoPhillips,COP,USD,Energy,Oil & Gas E&P,NYQ,0.01,1.0,1.0
+GOOG,Alphabet Inc.,GOOG,USD,Communication Services,Internet Content & Information,NMS,0.01,1.0,1.0
+AMAT,"Applied Materials, Inc.",AMAT,USD,Technology,Semiconductor Equipment & Materials,NMS,0.01,1.0,1.0
+LRCX,Lam Research Corporation,LRCX,USD,Technology,Semiconductor Equipment & Materials,NMS,0.01,1.0,1.0
+KLAC,KLA Corporation,KLAC,USD,Technology,Semiconductor Equipment & Materials,NMS,0.01,1.0,1.0
+MU,"Micron Technology, Inc.",MU,USD,Technology,Semiconductors,NMS,0.01,1.0,1.0
+ADI,"Analog Devices, Inc.",ADI,USD,Technology,Semiconductors,NMS,0.01,1.0,1.0
+NXPI,NXP Semiconductors N.V.,NXPI,USD,Technology,Semiconductors,NMS,0.01,1.0,1.0
+ON,ON Semiconductor Corporation,ON,USD,Technology,Semiconductors,NMS,0.01,1.0,1.0
+INTU,Intuit Inc.,INTU,USD,Technology,Software - Application,NMS,0.01,1.0,1.0
+ACN,Accenture plc,ACN,USD,Technology,Information Technology Services,NYQ,0.01,1.0,1.0
+SAP,SAP  SE,SAP,USD,Technology,Software - Application,NYQ,0.01,1.0,1.0
+ADP,"Automatic Data Processing, Inc.",ADP,USD,Technology,Software - Application,NMS,0.01,1.0,1.0
+DELL,Dell Technologies Inc.,DELL,USD,Technology,Computer Hardware,NYQ,0.01,1.0,1.0
+HPQ,HP Inc.,HPQ,USD,Technology,Computer Hardware,NYQ,0.01,1.0,1.0
+DECK,Deckers Outdoor Corporation,DECK,USD,Consumer Cyclical,Footwear & Accessories,NYQ,0.01,1.0,1.0
+ANET,"Arista Networks, Inc.",ANET,USD,Technology,Computer Hardware,NYQ,0.01,1.0,1.0
+SMCI,"Super Micro Computer, Inc.",SMCI,USD,Technology,Computer Hardware,NMS,0.01,1.0,1.0
+TEAM,Atlassian Corporation,TEAM,USD,Technology,Software - Application,NMS,0.01,1.0,1.0
+WDAY,"Workday, Inc.",WDAY,USD,Technology,Software - Application,NMS,0.01,1.0,1.0
+ZS,"Zscaler, Inc.",ZS,USD,Technology,Software - Infrastructure,NMS,0.01,1.0,1.0
+OKTA,"Okta, Inc.",OKTA,USD,Technology,Software - Infrastructure,NMS,0.01,1.0,1.0
+FTNT,"Fortinet, Inc.",FTNT,USD,Technology,Software - Infrastructure,NMS,0.01,1.0,1.0
+CDNS,"Cadence Design Systems, Inc.",CDNS,USD,Technology,Software - Application,NMS,0.01,1.0,1.0
+SNPS,"Synopsys, Inc.",SNPS,USD,Technology,Software - Infrastructure,NMS,0.01,1.0,1.0
+CRNC,Cerence Inc.,CRNC,USD,Technology,Software - Application,NMS,0.01,1.0,1.0
+CHKP,Check Point Software Technologi,CHKP,USD,Technology,Software - Infrastructure,NMS,0.01,1.0,1.0
+AKAM,"Akamai Technologies, Inc.",AKAM,USD,Technology,Software - Infrastructure,NMS,0.01,1.0,1.0
+VRSN,"VeriSign, Inc.",VRSN,USD,Technology,Software - Infrastructure,NMS,0.01,1.0,1.0
+ORLY,"O'Reilly Automotive, Inc.",ORLY,USD,Consumer Cyclical,Auto Parts,NMS,0.01,1.0,1.0
+AZO,"AutoZone, Inc.",AZO,USD,Consumer Cyclical,Auto Parts,NYQ,0.01,1.0,1.0
+CMG,"Chipotle Mexican Grill, Inc.",CMG,USD,Consumer Cyclical,Restaurants,NYQ,0.01,1.0,1.0
+YUM,"Yum! Brands, Inc.",YUM,USD,Consumer Cyclical,Restaurants,NYQ,0.01,1.0,1.0
+MAR,Marriott International,MAR,USD,Consumer Cyclical,Lodging,NMS,0.01,1.0,1.0
+HLT,Hilton Worldwide Holdings Inc.,HLT,USD,Consumer Cyclical,Lodging,NYQ,0.01,1.0,1.0
+RCL,Royal Caribbean Cruises Ltd.,RCL,USD,Consumer Cyclical,Travel Services,NYQ,0.01,1.0,1.0
+CCL,Carnival Corporation,CCL,USD,Consumer Cyclical,Travel Services,NYQ,0.01,1.0,1.0
+NCLH,Norwegian Cruise Line Holdings ,NCLH,USD,Consumer Cyclical,Travel Services,NYQ,0.01,1.0,1.0
+DAL,"Delta Air Lines, Inc.",DAL,USD,Industrials,Airlines,NYQ,0.01,1.0,1.0
+UAL,"United Airlines Holdings, Inc.",UAL,USD,Industrials,Airlines,NMS,0.01,1.0,1.0
+AAL,"American Airlines Group, Inc.",AAL,USD,Industrials,Airlines,NMS,0.01,1.0,1.0
+ROST,"Ross Stores, Inc.",ROST,USD,Consumer Cyclical,Apparel Retail,NMS,0.01,1.0,1.0
+TJX,"TJX Companies, Inc. (The)",TJX,USD,Consumer Cyclical,Apparel Retail,NYQ,0.01,1.0,1.0
+DG,Dollar General Corporation,DG,USD,Consumer Defensive,Discount Stores,NYQ,0.01,1.0,1.0
+DLTR,"Dollar Tree, Inc.",DLTR,USD,Consumer Defensive,Discount Stores,NMS,0.01,1.0,1.0
+KR,Kroger Company (The),KR,USD,Consumer Defensive,Grocery Stores,NYQ,0.01,1.0,1.0
+KDP,Keurig Dr Pepper Inc.,KDP,USD,Consumer Defensive,Beverages - Non-Alcoholic,NMS,0.01,1.0,1.0
+MNST,Monster Beverage Corporation,MNST,USD,Consumer Defensive,Beverages - Non-Alcoholic,NMS,0.01,1.0,1.0
+MDLZ,"Mondelez International, Inc.",MDLZ,USD,Consumer Defensive,Confectioners,NMS,0.01,1.0,1.0
+KHC,The Kraft Heinz Company,KHC,USD,Consumer Defensive,Packaged Foods,NMS,0.01,1.0,1.0
+GIS,"General Mills, Inc.",GIS,USD,Consumer Defensive,Packaged Foods,NYQ,0.01,1.0,1.0
+K,Kellanova,K,USD,Consumer Defensive,Packaged Foods,NYQ,0.01,1.0,1.0
+HSY,The Hershey Company,HSY,USD,Consumer Defensive,Confectioners,NYQ,0.01,1.0,1.0
+CL,Colgate-Palmolive Company,CL,USD,Consumer Defensive,Household & Personal Products,NYQ,0.01,1.0,1.0
+KMB,Kimberly-Clark Corporation,KMB,USD,Consumer Defensive,Household & Personal Products,NMS,0.01,1.0,1.0
+EL,"Estee Lauder Companies, Inc. (T",EL,USD,Consumer Defensive,Household & Personal Products,NYQ,0.01,1.0,1.0
+PM,Philip Morris International Inc,PM,USD,Consumer Defensive,Tobacco,NYQ,0.01,1.0,1.0
+MO,"Altria Group, Inc.",MO,USD,Consumer Defensive,Tobacco,NYQ,0.01,1.0,1.0
+BTI,British American Tobacco  Indus,BTI,USD,Consumer Defensive,Tobacco,NYQ,0.01,1.0,1.0
+STZ,"Constellation Brands, Inc.",STZ,USD,Consumer Defensive,Beverages - Brewers,NYQ,0.01,1.0,1.0
+DEO,Diageo plc,DEO,USD,Consumer Defensive,Beverages - Wineries & Distilleries,NYQ,0.01,1.0,1.0
+GILD,"Gilead Sciences, Inc.",GILD,USD,Healthcare,Drug Manufacturers - General,NMS,0.01,1.0,1.0
+REGN,"Regeneron Pharmaceuticals, Inc.",REGN,USD,Healthcare,Biotechnology,NMS,0.01,1.0,1.0
+VRTX,Vertex Pharmaceuticals Incorpor,VRTX,USD,Healthcare,Biotechnology,NMS,0.01,1.0,1.0
+ISRG,"Intuitive Surgical, Inc.",ISRG,USD,Healthcare,Medical Instruments & Supplies,NMS,0.01,1.0,1.0
+SYK,Stryker Corporation,SYK,USD,Healthcare,Medical Devices,NYQ,0.01,1.0,1.0
+ZTS,Zoetis Inc.,ZTS,USD,Healthcare,Drug Manufacturers - Specialty & Generic,NYQ,0.01,1.0,1.0
+BSX,Boston Scientific Corporation,BSX,USD,Healthcare,Medical Devices,NYQ,0.01,1.0,1.0
+EW,Edwards Lifesciences Corporatio,EW,USD,Healthcare,Medical Devices,NYQ,0.01,1.0,1.0
+IDXX,"IDEXX Laboratories, Inc.",IDXX,USD,Healthcare,Diagnostics & Research,NMS,0.01,1.0,1.0
+HUM,Humana Inc.,HUM,USD,Healthcare,Healthcare Plans,NYQ,0.01,1.0,1.0
+CI,The Cigna Group,CI,USD,Healthcare,Healthcare Plans,NYQ,0.01,1.0,1.0
+CVS,CVS Health Corporation,CVS,USD,Healthcare,Healthcare Plans,NYQ,0.01,1.0,1.0
+HCA,"HCA Healthcare, Inc.",HCA,USD,Healthcare,Medical Care Facilities,NYQ,0.01,1.0,1.0
+CNC,Centene Corporation,CNC,USD,Healthcare,Healthcare Plans,NYQ,0.01,1.0,1.0
+ELV,"Elevance Health, Inc.",ELV,USD,Healthcare,Healthcare Plans,NYQ,0.01,1.0,1.0
+IQV,"IQVIA Holdings, Inc.",IQV,USD,Healthcare,Diagnostics & Research,NYQ,0.01,1.0,1.0
+ILMN,"Illumina, Inc.",ILMN,USD,Healthcare,Diagnostics & Research,NMS,0.01,1.0,1.0
+BIIB,Biogen Inc.,BIIB,USD,Healthcare,Drug Manufacturers - General,NMS,0.01,1.0,1.0
+MRNA,"Moderna, Inc.",MRNA,USD,Healthcare,Biotechnology,NMS,0.01,1.0,1.0
+BNTX,BioNTech SE,BNTX,USD,Healthcare,Biotechnology,NMS,0.01,1.0,1.0
+WFC,Wells Fargo & Company,WFC,USD,Financial Services,Banks - Diversified,NYQ,0.01,1.0,1.0
+PNC,"PNC Financial Services Group, I",PNC,USD,Financial Services,Banks - Regional,NYQ,0.01,1.0,1.0
+USB,U.S. Bancorp,USB,USD,Financial Services,Banks - Regional,NYQ,0.01,1.0,1.0
+TFC,Truist Financial Corporation,TFC,USD,Financial Services,Banks - Regional,NYQ,0.01,1.0,1.0
+BK,The Bank of New York Mellon Cor,BK,USD,Financial Services,Banks - Diversified,NYQ,0.01,1.0,1.0
+STT,State Street Corporation,STT,USD,Financial Services,Asset Management,NYQ,0.01,1.0,1.0
+COF,Capital One Financial Corporati,COF,USD,Financial Services,Credit Services,NYQ,0.01,1.0,1.0
+DFS,,DFS,USD,,,,0.01,1.0,1.0
+PYPL,"PayPal Holdings, Inc.",PYPL,USD,Financial Services,Credit Services,NMS,0.01,1.0,1.0
+FIS,Fidelity National Information S,FIS,USD,Technology,Information Technology Services,NYQ,0.01,1.0,1.0
+FI,"Fiserv, Inc.",FI,USD,Technology,Information Technology Services,NYQ,0.01,1.0,1.0
+FISV,"Fiserv, Inc.",FISV,USD,,,NMS,0.01,1.0,1.0
+GPN,Global Payments Inc.,GPN,USD,Industrials,Specialty Business Services,NYQ,0.01,1.0,1.0
+SQ,,SQ,USD,,,,0.01,1.0,1.0
+CME,CME Group Inc.,CME,USD,Financial Services,Financial Data & Stock Exchanges,NMS,0.01,1.0,1.0
+ICE,Intercontinental Exchange Inc.,ICE,USD,Financial Services,Financial Data & Stock Exchanges,NYQ,0.01,1.0,1.0
+NDAQ,"Nasdaq, Inc.",NDAQ,USD,Financial Services,Financial Data & Stock Exchanges,NMS,0.01,1.0,1.0
+MCO,Moody's Corporation,MCO,USD,Financial Services,Financial Data & Stock Exchanges,NYQ,0.01,1.0,1.0
+V,Visa Inc.,V,USD,Financial Services,Credit Services,NYQ,0.01,1.0,1.0
+MA,Mastercard Incorporated,MA,USD,Financial Services,Credit Services,NYQ,0.01,1.0,1.0
+SLB,SLB Limited,SLB,USD,Energy,Oil & Gas Equipment & Services,NYQ,0.01,1.0,1.0
+HAL,Halliburton Company,HAL,USD,Energy,Oil & Gas Equipment & Services,NYQ,0.01,1.0,1.0
+BKR,Baker Hughes Company,BKR,USD,Energy,Oil & Gas Equipment & Services,NMS,0.01,1.0,1.0
+EOG,"EOG Resources, Inc.",EOG,USD,Energy,Oil & Gas E&P,NYQ,0.01,1.0,1.0
+OXY,Occidental Petroleum Corporatio,OXY,USD,Energy,Oil & Gas E&P,NYQ,0.01,1.0,1.0
+VLO,Valero Energy Corporation,VLO,USD,Energy,Oil & Gas Refining & Marketing,NYQ,0.01,1.0,1.0
+MPC,Marathon Petroleum Corporation,MPC,USD,Energy,Oil & Gas Refining & Marketing,NYQ,0.01,1.0,1.0
+PSX,Phillips 66,PSX,USD,Energy,Oil & Gas Refining & Marketing,NYQ,0.01,1.0,1.0
+KMI,"Kinder Morgan, Inc.",KMI,USD,Energy,Oil & Gas Midstream,NYQ,0.01,1.0,1.0
+WMB,"Williams Companies, Inc. (The)",WMB,USD,Energy,Oil & Gas Midstream,NYQ,0.01,1.0,1.0
+NUE,Nucor Corporation,NUE,USD,Basic Materials,Steel,NYQ,0.01,1.0,1.0
+STLD,"Steel Dynamics, Inc.",STLD,USD,Basic Materials,Steel,NMS,0.01,1.0,1.0
+X,,X,USD,,,,0.01,1.0,1.0
+AA,Alcoa Corporation,AA,USD,Basic Materials,Aluminum,NYQ,0.01,1.0,1.0
+ALB,Albemarle Corporation,ALB,USD,Basic Materials,Specialty Chemicals,NYQ,0.01,1.0,1.0
+DOW,Dow Inc.,DOW,USD,Basic Materials,Chemicals,NYQ,0.01,1.0,1.0
+DD,"DuPont de Nemours, Inc.",DD,USD,Basic Materials,Specialty Chemicals,NYQ,0.01,1.0,1.0
+PPG,"PPG Industries, Inc.",PPG,USD,Basic Materials,Specialty Chemicals,NYQ,0.01,1.0,1.0
+SHW,Sherwin-Williams Company (The),SHW,USD,Basic Materials,Specialty Chemicals,NYQ,0.01,1.0,1.0
+MLM,"Martin Marietta Materials, Inc.",MLM,USD,Basic Materials,Building Materials,NYQ,0.01,1.0,1.0
+EMR,Emerson Electric Company,EMR,USD,Industrials,Specialty Industrial Machinery,NYQ,0.01,1.0,1.0
+ETN,"Eaton Corporation, PLC",ETN,USD,Industrials,Specialty Industrial Machinery,NYQ,0.01,1.0,1.0
+ITW,Illinois Tool Works Inc.,ITW,USD,Industrials,Specialty Industrial Machinery,NYQ,0.01,1.0,1.0
+PH,Parker-Hannifin Corporation,PH,USD,Industrials,Specialty Industrial Machinery,NYQ,0.01,1.0,1.0
+ROP,"Roper Technologies, Inc.",ROP,USD,Technology,Software - Application,NMS,0.01,1.0,1.0
+CTAS,Cintas Corporation,CTAS,USD,Industrials,Specialty Business Services,NMS,0.01,1.0,1.0
+ADSK,"Autodesk, Inc.",ADSK,USD,Technology,Software - Application,NMS,0.01,1.0,1.0
+TT,Trane Technologies plc,TT,USD,Industrials,Building Products & Equipment,NYQ,0.01,1.0,1.0
+CMI,Cummins Inc.,CMI,USD,Industrials,Specialty Industrial Machinery,NYQ,0.01,1.0,1.0
+PCAR,PACCAR Inc.,PCAR,USD,Industrials,Farm & Heavy Construction Machinery,NMS,0.01,1.0,1.0
+CSX,CSX Corporation,CSX,USD,Industrials,Railroads,NMS,0.01,1.0,1.0
+CP,Canadian Pacific Kansas City Li,CP,USD,Industrials,Railroads,NYQ,0.01,1.0,1.0
+CNI,Canadian National Railway Compa,CNI,USD,Industrials,Railroads,NYQ,0.01,1.0,1.0
+GD,General Dynamics Corporation,GD,USD,Industrials,Aerospace & Defense,NYQ,0.01,1.0,1.0
+NOC,Northrop Grumman Corporation,NOC,USD,Industrials,Aerospace & Defense,NYQ,0.01,1.0,1.0
+TXT,Textron Inc.,TXT,USD,Industrials,Aerospace & Defense,NYQ,0.01,1.0,1.0
+IR,Ingersoll Rand Inc.,IR,USD,Industrials,Specialty Industrial Machinery,NYQ,0.01,1.0,1.0
+JCI,Johnson Controls International ,JCI,USD,Industrials,Building Products & Equipment,NYQ,0.01,1.0,1.0
+FAST,Fastenal Company,FAST,USD,Industrials,Industrial Distribution,NMS,0.01,1.0,1.0
+URI,"United Rentals, Inc.",URI,USD,Industrials,Rental & Leasing Services,NYQ,0.01,1.0,1.0
+T,AT&T Inc.,T,USD,Communication Services,Telecom Services,NYQ,0.01,1.0,1.0
+VZ,Verizon Communications Inc.,VZ,USD,Communication Services,Telecom Services,NYQ,0.01,1.0,1.0
+TMUS,"T-Mobile US, Inc.",TMUS,USD,Communication Services,Telecom Services,NMS,0.01,1.0,1.0
+CMCSA,Comcast Corporation,CMCSA,USD,Communication Services,Telecom Services,NMS,0.01,1.0,1.0
+CHTR,"Charter Communications, Inc.",CHTR,USD,Communication Services,Telecom Services,NMS,0.01,1.0,1.0
+EA,Electronic Arts Inc.,EA,USD,Communication Services,Electronic Gaming & Multimedia,NMS,0.01,1.0,1.0
+TTWO,"Take-Two Interactive Software, ",TTWO,USD,Communication Services,Electronic Gaming & Multimedia,NMS,0.01,1.0,1.0
+SONY,Sony Group Corporation,SONY,USD,Technology,Consumer Electronics,NYQ,0.01,1.0,1.0
+SPOT,Spotify Technology S.A.,SPOT,USD,Communication Services,Internet Content & Information,NYQ,0.01,1.0,1.0
+PARA,,PARA,USD,,,,0.01,1.0,1.0
+WBD,"Warner Bros. Discovery, Inc. - ",WBD,USD,Communication Services,Entertainment,NMS,0.01,1.0,1.0
+ROKU,"Roku, Inc.",ROKU,USD,Communication Services,Entertainment,NMS,0.01,1.0,1.0
+PINS,"Pinterest, Inc.",PINS,USD,Communication Services,Internet Content & Information,NYQ,0.01,1.0,1.0
+SNAP,Snap Inc.,SNAP,USD,Communication Services,Internet Content & Information,NYQ,0.01,1.0,1.0
+RDDT,"Reddit, Inc.",RDDT,USD,Communication Services,Internet Content & Information,NYQ,0.01,1.0,1.0
+BIDU,"Baidu, Inc.",BIDU,USD,Communication Services,Internet Content & Information,NMS,0.01,1.0,1.0
+BABA,Alibaba Group Holding Limited,BABA,USD,Consumer Cyclical,Internet Retail,NYQ,0.01,1.0,1.0
+JD,"JD.com, Inc.",JD,USD,Consumer Cyclical,Internet Retail,NMS,0.01,1.0,1.0
+PDD,PDD Holdings Inc.,PDD,USD,Consumer Cyclical,Internet Retail,NMS,0.01,1.0,1.0
+TCEHY,Tencent Holding Ltd.,TCEHY,USD,Communication Services,Internet Content & Information,PNK,0.01,1.0,1.0
+NEE,"NextEra Energy, Inc.",NEE,USD,Utilities,Utilities - Regulated Electric,NYQ,0.01,1.0,1.0
+DUK,Duke Energy Corporation (Holdin,DUK,USD,Utilities,Utilities - Regulated Electric,NYQ,0.01,1.0,1.0
+SO,Southern Company (The),SO,USD,Utilities,Utilities - Regulated Electric,NYQ,0.01,1.0,1.0
+AEP,American Electric Power Company,AEP,USD,Utilities,Utilities - Regulated Electric,NMS,0.01,1.0,1.0
+EXC,Exelon Corporation,EXC,USD,Utilities,Utilities - Regulated Electric,NMS,0.01,1.0,1.0
+SRE,DBA Sempra,SRE,USD,Utilities,Utilities - Diversified,NYQ,0.01,1.0,1.0
+XEL,Xcel Energy Inc.,XEL,USD,Utilities,Utilities - Regulated Electric,NMS,0.01,1.0,1.0
+PEG,Public Service Enterprise Group,PEG,USD,Utilities,Utilities - Regulated Electric,NYQ,0.01,1.0,1.0
+ED,"Consolidated Edison, Inc.",ED,USD,Utilities,Utilities - Regulated Electric,NYQ,0.01,1.0,1.0
+EIX,Edison International,EIX,USD,Utilities,Utilities - Regulated Electric,NYQ,0.01,1.0,1.0
+AMT,American Tower Corporation (REI,AMT,USD,Real Estate,REIT - Specialty,NYQ,0.01,1.0,1.0
+CCI,Crown Castle Inc.,CCI,USD,Real Estate,REIT - Specialty,NYQ,0.01,1.0,1.0
+PLD,"Prologis, Inc.",PLD,USD,Real Estate,REIT - Industrial,NYQ,0.01,1.0,1.0
+EQIX,"Equinix, Inc.",EQIX,USD,Real Estate,REIT - Specialty,NMS,0.01,1.0,1.0
+DLR,"Digital Realty Trust, Inc.",DLR,USD,Real Estate,REIT - Specialty,NYQ,0.01,1.0,1.0
+SPG,"Simon Property Group, Inc.",SPG,USD,Real Estate,REIT - Retail,NYQ,0.01,1.0,1.0
+O,Realty Income Corporation,O,USD,Real Estate,REIT - Retail,NYQ,0.01,1.0,1.0
+PSA,Public Storage,PSA,USD,Real Estate,REIT - Industrial,NYQ,0.01,1.0,1.0
+WELL,Welltower Inc.,WELL,USD,Real Estate,REIT - Healthcare Facilities,NYQ,0.01,1.0,1.0
+AVB,"AvalonBay Communities, Inc.",AVB,USD,Real Estate,REIT - Residential,NYQ,0.01,1.0,1.0
+NVO,Novo Nordisk A/S,NVO,USD,Healthcare,Drug Manufacturers - General,NYQ,0.01,1.0,1.0
+AZN,Astrazeneca PLC,AZN,USD,Healthcare,Drug Manufacturers - General,NMS,0.01,1.0,1.0
+SNY,Sanofi,SNY,USD,Healthcare,Drug Manufacturers - General,NMS,0.01,1.0,1.0
+NOVN.SW,NOVARTIS N,NOVN.SW,CHF,Healthcare,Drug Manufacturers - General,EBS,0.01,1.0,1.0
+NESN.SW,NESTLE N,NESN.SW,CHF,Consumer Defensive,Packaged Foods,EBS,0.01,1.0,1.0
+MC.PA,LVMH,MC.PA,EUR,Consumer Cyclical,Luxury Goods,PAR,0.01,1.0,1.0
+OR.PA,L'OREAL,OR.PA,EUR,Consumer Defensive,Household & Personal Products,PAR,0.01,1.0,1.0
+TTE.PA,TOTALENERGIES,TTE.PA,EUR,Energy,Oil & Gas Integrated,PAR,0.01,1.0,1.0
+SAN.PA,SANOFI,SAN.PA,EUR,Healthcare,Drug Manufacturers - General,PAR,0.01,1.0,1.0
+AIR.PA,AIRBUS SE,AIR.PA,EUR,Industrials,Aerospace & Defense,PAR,0.01,1.0,1.0
+BMW.DE,BAYERISCHE MOTOREN WERKE AG   S,BMW.DE,EUR,Consumer Cyclical,Auto Manufacturers,GER,0.01,1.0,1.0
+DTE.DE,DEUTSCHE TELEKOM AG           N,DTE.DE,EUR,Communication Services,Telecom Services,GER,0.01,1.0,1.0
+SIE.DE,SIEMENS AG                    N,SIE.DE,EUR,Industrials,Specialty Industrial Machinery,GER,0.01,1.0,1.0
+RMS.PA,HERMES INTL,RMS.PA,EUR,Consumer Cyclical,Luxury Goods,PAR,0.01,1.0,1.0
+KER.PA,KERING,KER.PA,EUR,Consumer Cyclical,Luxury Goods,PAR,0.01,1.0,1.0
+SU.PA,SCHNEIDER ELECTRIC SE,SU.PA,EUR,Industrials,Specialty Industrial Machinery,PAR,0.01,1.0,1.0
+DG.PA,VINCI,DG.PA,EUR,Industrials,Engineering & Construction,PAR,0.01,1.0,1.0
+BNP.PA,BNP PARIBAS ACT.A,BNP.PA,EUR,Financial Services,Banks - Regional,PAR,0.01,1.0,1.0
+ADS.DE,adidas AG                     N,ADS.DE,EUR,Consumer Cyclical,Footwear & Accessories,GER,0.01,1.0,1.0
+ENEL.MI,ENEL,ENEL.MI,EUR,Utilities,Utilities - Diversified,MIL,0.01,1.0,1.0
